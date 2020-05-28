@@ -235,7 +235,7 @@ img {
   border-top: 1px solid #ececec;
 }
 .specialization-list .link {
-  color: var(--title-text-color);
+  color: var(--white-color);
 
   font-weight: 700;
   font-size: 14px;
@@ -323,8 +323,6 @@ img {
   display: inline-block;
   margin-right: 22px;
   margin-bottom: 24px;
-
-  ma
 }
 /* customers */
 .customers-list {
